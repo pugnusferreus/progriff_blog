@@ -1,0 +1,9 @@
+markdown: rdiscount
+pygments: true
+
+exclude:
+  - deploy.sh
+
+author:
+  name: Benson Lim
+  email: benson at progriff.com
