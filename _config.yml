@@ -7,3 +7,8 @@ exclude:
 author:
   name: Benson Lim
   email: benson at progriff.com
+  
+title: Progriff
+url: http://progriff.com
+disqus_id: progriff
+feed_url: http://progriff.com/atom.xml
