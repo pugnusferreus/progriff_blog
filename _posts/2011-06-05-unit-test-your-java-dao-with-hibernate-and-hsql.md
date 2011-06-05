@@ -27,7 +27,7 @@ Here's how. I'll assume that you have Git, Java 1.6 (or whatever it's called now
 3. `ant`
 4. Open docs/unitTest/index.html in your browser
 
-You can see that all the unit test passed.
+You can see that all the unit tests pass.
 
 Make sure that your hibernate config points to the HSQL DB and your model is mapped.
 Open up "com.progriff.dao.UserDaoTest" and you can see that it's your typical Java Unit Test
