@@ -40,7 +40,8 @@ when(class1.methodReturnsString()).thenReturn("foo");
 assertEquals("foo", class2.callClass1Method());
 {% endhighlight %}
 
-Assuming that class2.callClass1Method() will call class1.methodReturnsString(), 
+Assuming that {% highlight java %} class2.callClass1Method() {% endhighlight %} will call
+{% highlight java %} class1.methodReturnsString() {% endhighlight %}
 the assertion will be successful.
 
 To get a better picture of what Mockito can do for you, you can checkout my Mockito Test project
