@@ -57,8 +57,7 @@ Here's how:
     $ pygmentize -S default -f html > /path/to/your/blog/css/pygment.css
     {% endhighlight %}
 
-6 . Take a look at the <a href="https://github.com/pugnusferreus/progriff_blog">source</a> for this blog and copy
-    whatever you need.
+6 . Take a look at the <a href="https://github.com/pugnusferreus/progriff_blog">source</a> for this blog and copy whatever you need.
 
 7 . After you're done, you want to preview your blog. In your terminal, type
     {% highlight bash %}
