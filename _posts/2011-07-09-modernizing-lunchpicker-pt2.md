@@ -36,7 +36,8 @@ end
 5.) Run `bundle install` and then run `rails g rspec:install`.
 This will create the rspec folder and the rake file to create a test database.
 
-6.) Your spec folder would typically look like the app folder.
+6.) The structure of your `spec/` directory should mirror that of `app`. 
+For example, the spec file for `app/models/location.rb` would be `app/models/location_spec.rb`.
 
 7.) Create your rspec test! Need example? See <a href="https://github.com/pugnusferreus/lunchpicker/tree/master/spec">here</a>.
 
