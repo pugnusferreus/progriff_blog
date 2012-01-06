@@ -1,4 +1,4 @@
 #!/bin/sh
 
 jekyll
-rsync -rc _site/ ../progriff/site
+rsync -rc _site/ ../progriff.com/site
